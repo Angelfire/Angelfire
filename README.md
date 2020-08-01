@@ -1,5 +1,3 @@
-
-  
 # Hi, I'm Andrés Bedoya 👋
 
 I'm a full time Front-end developer (System Engineering and Informatics) living in Medellín, Colombia.
@@ -22,6 +20,3 @@ I used to write in:
 - 💨 [Velocidad de Escape](https://velocidadescape.com/)
 - 📫 My personal website [Gecken](https://gecken.co/)
 - 👾 [Geek the Planet](https://geektheplanet.net/)
-- Read my latest blog post: [Automatic NodeJS version using NVM](https://velocidadescape.com/js/automatic-nodejs-version-nvm/)
-
-Last update on Fri Jul 31 2020

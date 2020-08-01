@@ -20,3 +20,6 @@ I used to write in:
 - 💨 [Velocidad de Escape](https://velocidadescape.com/)
 - 📫 My personal website [Gecken](https://gecken.co/)
 - 👾 [Geek the Planet](https://geektheplanet.net/)
+- Read my latest blog post: [How to update your Github Profile README automatically using NodeJS](https://velocidadescape.com/js/how-to-update-github-profile-readme-automatically/)
+
+Last update on Sat Aug 01 2020

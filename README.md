@@ -20,6 +20,3 @@ I used to write in:
 - 💨 [Velocidad de Escape](https://velocidadescape.com/)
 - 📫 My personal website [Gecken](https://gecken.co/)
 - 👾 [Geek the Planet](https://geektheplanet.net/)
-- Read my latest blog post: [Automatic NodeJS version using NVM](https://velocidadescape.com/js/automatic-nodejs-version-nvm/)
-
-Last update on Sat Aug 01 2020

@@ -1,0 +1,11 @@
+{
+  "name": "updatereadme",
+  "version": "1.0.0",
+  "description": "Update Readme Automatically",
+  "main": "./update/index.js",
+  "author": "Andrés Bedoya",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.9.0"
+  }
+}

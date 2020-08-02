@@ -22,4 +22,4 @@ I used to write in:
 - 👾 [Geek the Planet](https://geektheplanet.net/)
 - Read my latest blog post: [How to update your Github Profile README automatically using NodeJS](https://velocidadescape.com/js/how-to-update-github-profile-readme-automatically/)
 
-Last update on Sat Aug 01 2020
+Last update on Sun Aug 02 2020

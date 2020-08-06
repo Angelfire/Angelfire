@@ -15,8 +15,7 @@ Currently focused on web application development using **React** and **Vue.js**.
 - Node.js / Deno
 - JAMstack
 
-##
-I used to write in:
+## I used to write in:
 - 💨 [Velocidad de Escape](https://velocidadescape.com/)
 - 📫 My personal website [SrHart](https://srhart.co/)
 - 👾 [Geek the Planet](https://geektheplanet.net/)

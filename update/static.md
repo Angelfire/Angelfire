@@ -18,5 +18,5 @@ Currently focused on web application development using **React** and **Vue.js**.
 ##
 I used to write in:
 - 💨 [Velocidad de Escape](https://velocidadescape.com/)
-- 📫 My personal website [Gecken](https://gecken.co/)
+- 📫 My personal website [SrHart](https://srhart.co/)
 - 👾 [Geek the Planet](https://geektheplanet.net/)

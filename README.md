@@ -18,8 +18,9 @@ Currently focused on web application development using **React** and **Vue.js**.
 ##
 I used to write in:
 - 💨 [Velocidad de Escape](https://velocidadescape.com/)
-- 📫 My personal website [Gecken](https://gecken.co/)
+- 📫 My personal website [SrHart](https://srhart.co/)
 - 👾 [Geek the Planet](https://geektheplanet.net/)
+
 - Read my latest blog post: [How to update your Github Profile README automatically using NodeJS](https://velocidadescape.com/js/how-to-update-github-profile-readme-automatically/)
 
-Last update on Wed Aug 05 2020
+Last update on Thu Aug 06 2020

@@ -59,10 +59,11 @@ const main = async(staticMD, rssURL) => {
   const timeElapsed = Date.now();
   const today = new Date(timeElapsed);
 
-  const lastPost = `- Read my latest blog post: [${feed.title}](${feed.link})`;
+  const lastPost = `Read my latest blog post: [${feed.title}](${feed.link})`;
   const date = `Last update on ${today.toDateString()}`;
 
   const data = `${oldMd}
+
 ${lastPost}
 
 ${date}`;

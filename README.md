@@ -23,4 +23,4 @@ Currently focused on web application development using **React** and **Vue.js**.
 
 Read my latest blog post: [How to update your Github Profile README automatically using NodeJS](https://velocidadescape.com/js/how-to-update-github-profile-readme-automatically/)
 
-Last update on Wed Aug 26 2020
+Last update on Thu Aug 27 2020

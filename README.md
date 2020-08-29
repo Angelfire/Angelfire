@@ -21,6 +21,6 @@ Currently focused on web application development using **React** and **Vue.js**.
 - 👾[Geek the Planet](https://geektheplanet.net/)
 
 
-Read my latest blog post: [How to update your Github Profile README automatically using NodeJS](https://velocidadescape.com/js/how-to-update-github-profile-readme-automatically/)
+Read my latest blog post: [Javascript Proxy, a gentle introduction](https://velocidadescape.com/js/javascript-proxy-gentle-introduction/)
 
-Last update on Fri Aug 28 2020
+Last update on Sat Aug 29 2020

@@ -23,4 +23,4 @@ Currently focused on web application development using **React** and **Vue.js**.
 
 Read my latest blog post: [Javascript Proxy, a gentle introduction](https://velocidadescape.com/js/javascript-proxy-gentle-introduction/)
 
-Last update on Fri Oct 09 2020
+Last update on Sat Oct 10 2020

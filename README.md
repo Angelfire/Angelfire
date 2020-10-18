@@ -21,6 +21,6 @@ Currently focused on web application development using **React** and **Vue.js**.
 - 👾[Geek the Planet](https://geektheplanet.net/)
 
 
-Read my latest blog post: [Javascript Proxy, a gentle introduction](https://velocidadescape.com/js/javascript-proxy-gentle-introduction/)
+Read my latest blog post: [Fluent Interfaces in JavaScript](https://velocidadescape.com/js/fluent-interface-javascript/)
 
-Last update on Sat Oct 17 2020
+Last update on Sun Oct 18 2020

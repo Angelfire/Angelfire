@@ -23,4 +23,4 @@ Currently focused on web application development using **React** and **Vue.js**.
 
 Read my latest blog post: [Fluent Interfaces in JavaScript](https://velocidadescape.com/js/fluent-interface-javascript/)
 
-Last update on Sat Mar 27 2021
+Last update on Sun Mar 28 2021

@@ -21,6 +21,6 @@ Currently focused on web application development using **React** and **Vue.js**.
 - 👾[Geek the Planet](https://geektheplanet.net/)
 
 
-Read my latest blog post: [Fluent Interfaces in JavaScript](https://velocidadescape.com/js/fluent-interface-javascript/)
+Read my latest blog post: [Redux VS Redux Toolkit](https://velocidadescape.com/js/redux-redux-toolkit/)
 
-Last update on Tue Apr 20 2021
+Last update on Wed Apr 21 2021

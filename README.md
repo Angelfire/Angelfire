@@ -23,4 +23,4 @@ Currently focused on web application development using **React** and **Vue.js**.
 
 Read my latest blog post: [Redux VS Redux Toolkit](https://velocidadescape.com/js/redux-redux-toolkit/)
 
-Last update on Wed Apr 21 2021
+Last update on Thu Apr 22 2021

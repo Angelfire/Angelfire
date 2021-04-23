@@ -21,6 +21,6 @@ Currently focused on web application development using **React** and **Vue.js**.
 - 👾[Geek the Planet](https://geektheplanet.net/)
 
 
-Read my latest blog post: [Redux VS Redux Toolkit](https://velocidadescape.com/js/redux-redux-toolkit/)
+Read my latest blog post: [Stop using If else and Switch statements](https://velocidadescape.com/js/stop-using-ifelse-switch-statements/)
 
-Last update on Thu Apr 22 2021
+Last update on Fri Apr 23 2021

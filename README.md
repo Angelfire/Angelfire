@@ -23,4 +23,4 @@ Currently focused on web application development using **React** and **Vue.js**.
 
 Read my latest blog post: [Stop using If else and Switch statements](https://velocidadescape.com/js/stop-using-ifelse-switch-statements/)
 
-Last update on Tue Apr 27 2021
+Last update on Wed Apr 28 2021

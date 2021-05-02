@@ -15,12 +15,15 @@ Currently focused on web application development using **React** and **Vue.js**.
 - Node.js / Deno
 - JAMstack
 
+## Most Used Technologies
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelfire&show_icons=true&theme=tokyonight&card_width=500&langs_count=9&hide_title=true)
+
 ## I used to write in:
 - 💨[Velocidad de Escape](https://velocidadescape.com/)
 - 📫My personal website [SrHart](https://srhart.co/)
 - 👾[Geek the Planet](https://geektheplanet.net/)
 
 
-Read my latest blog post: [Stop using If else and Switch statements](https://velocidadescape.com/js/stop-using-ifelse-switch-statements/)
+Read my latest blog post: [Destructuring: From Zero to Hero](https://velocidadescape.com/js/destructuring-zero-hero/)
 
-Last update on Sat May 01 2021
+Last update on Sun May 02 2021

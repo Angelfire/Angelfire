@@ -15,6 +15,9 @@ Currently focused on web application development using **React** and **Vue.js**.
 - Node.js / Deno
 - JAMstack
 
+## Most Used Technologies
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelfire&show_icons=true&theme=tokyonight&card_width=500&langs_count=9&hide_title=true)
+
 ## I used to write in:
 - 💨[Velocidad de Escape](https://velocidadescape.com/)
 - 📫My personal website [SrHart](https://srhart.co/)

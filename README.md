@@ -26,4 +26,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Destructuring: From Zero to Hero](https://velocidadescape.com/js/destructuring-zero-hero/)
 
-Last update on Wed May 05 2021
+Last update on Thu May 06 2021

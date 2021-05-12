@@ -24,6 +24,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 👾[Geek the Planet](https://geektheplanet.net/)
 
 
-Read my latest blog post: [Destructuring: From Zero to Hero](https://velocidadescape.com/js/destructuring-zero-hero/)
+Read my latest blog post: [Standard built-in objects in JavaScript](https://velocidadescape.com/js/standard-built-in-objects-javascript/)
 
-Last update on Tue May 11 2021
+Last update on Wed May 12 2021

@@ -26,4 +26,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Standard built-in objects in JavaScript](https://velocidadescape.com/js/standard-built-in-objects-javascript/)
 
-Last update on Sun Feb 06 2022
+Last update on Mon Feb 07 2022

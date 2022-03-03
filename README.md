@@ -24,6 +24,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 👾[Geek the Planet](https://geektheplanet.net/)
 
 
-Read my latest blog post: [Standard built-in objects in JavaScript](https://velocidadescape.com/js/standard-built-in-objects-javascript/)
+Read my latest blog post: [Protected routes and authorization using React Router v6](https://velocidadescape.com/react/protected-routes-authorization-react/)
 
-Last update on Wed Mar 02 2022
+Last update on Thu Mar 03 2022

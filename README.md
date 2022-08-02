@@ -26,4 +26,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Protected routes and authorization using React Router v6](https://velocidadescape.com/react/protected-routes-authorization-react/)
 
-Last update on Mon Aug 01 2022
+Last update on Tue Aug 02 2022

@@ -24,6 +24,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 👾[Geek the Planet](https://geektheplanet.net/)
 
 
-Read my latest blog post: [Protected routes and authorization using React Router v6](https://velocidadescape.com/react/protected-routes-authorization-react/)
+Read my latest blog post: [Velocidad de Escape: La cibercultura en el final del siglo](https://velocidadescape.com/personal/velocidad-escape/)
 
-Last update on Wed Dec 14 2022
+Last update on Fri Dec 16 2022

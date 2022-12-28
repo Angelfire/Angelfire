@@ -26,4 +26,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Velocidad de Escape: La cibercultura en el final del siglo](https://velocidadescape.com/personal/velocidad-escape/)
 
-Last update on Tue Dec 27 2022
+Last update on Wed Dec 28 2022

@@ -24,6 +24,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 👾[Geek the Planet](https://geektheplanet.net/)
 
 
-Read my latest blog post: [Velocidad de Escape: La cibercultura en el final del siglo](https://velocidadescape.com/personal/velocidad-escape/)
+Read my latest blog post: [La importancia de hacer nada](https://velocidadescape.com/personal/importancia-hacer-nada/)
 
-Last update on Wed Jan 11 2023
+Last update on Thu Jan 12 2023

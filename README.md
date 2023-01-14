@@ -26,4 +26,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [La importancia de hacer nada](https://velocidadescape.com/personal/importancia-hacer-nada/)
 
-Last update on Fri Jan 13 2023
+Last update on Sat Jan 14 2023

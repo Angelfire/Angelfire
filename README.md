@@ -24,6 +24,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 👾[Geek the Planet](https://geektheplanet.net/)
 
 
-Read my latest blog post: [La importancia de hacer nada](https://velocidadescape.com/personal/importancia-hacer-nada/)
+Read my latest blog post: [Andrés and the Quantum Machine](https://velocidadescape.com/personal/andres-quantum-machine/)
 
-Last update on Mon Jan 16 2023
+Last update on Tue Jan 17 2023

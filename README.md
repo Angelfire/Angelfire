@@ -24,6 +24,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 👾[Geek the Planet](https://geektheplanet.net/)
 
 
-Read my latest blog post: [Andrés and the Quantum Machine](https://velocidadescape.com/personal/andres-quantum-machine/)
+Read my latest blog post: [The art of writing your first prompt](https://velocidadescape.com/ai/art-writing-first-prompt-openai/)
 
-Last update on Tue Jan 17 2023
+Last update on Wed Jan 18 2023

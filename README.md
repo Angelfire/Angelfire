@@ -26,4 +26,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [The art of writing your first prompt](https://velocidadescape.com/ai/art-writing-first-prompt-openai/)
 
-Last update on Fri Jan 20 2023
+Last update on Sat Jan 21 2023

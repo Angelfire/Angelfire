@@ -24,6 +24,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 👾[Geek the Planet](https://geektheplanet.net/)
 
 
-Read my latest blog post: [The art of writing your first prompt](https://velocidadescape.com/ai/art-writing-first-prompt-openai/)
+Read my latest blog post: [Is HTML a programming language?](https://velocidadescape.com/cs/html-programming-language/)
 
-Last update on Wed Jan 25 2023
+Last update on Thu Jan 26 2023

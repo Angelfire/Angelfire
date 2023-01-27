@@ -26,4 +26,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Is HTML a programming language?](https://velocidadescape.com/cs/html-programming-language/)
 
-Last update on Thu Jan 26 2023
+Last update on Fri Jan 27 2023

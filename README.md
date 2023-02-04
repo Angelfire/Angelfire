@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [An introduction to Monads in Javascript](https://velocidadescape.com/js/introduction-monads-javascript/)
 
-Last update on Fri Feb 03 2023
+Last update on Sat Feb 04 2023

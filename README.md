@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [An introduction to Monads in Javascript](https://velocidadescape.com/js/introduction-monads-javascript/)
+Read my latest blog post: [Aprender idiomas con ChatGPT](https://velocidadescape.com/personal/aprender-idiomas-chatgpt/)
 
-Last update on Thu Feb 09 2023
+Last update on Fri Feb 10 2023

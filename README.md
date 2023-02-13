@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Aprender idiomas con ChatGPT](https://velocidadescape.com/personal/aprender-idiomas-chatgpt/)
 
-Last update on Sun Feb 12 2023
+Last update on Mon Feb 13 2023

@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Aprender idiomas con ChatGPT](https://velocidadescape.com/personal/aprender-idiomas-chatgpt/)
+Read my latest blog post: [Dynamic classes in Tailwind](https://velocidadescape.com/css/dynamic-classes-tailwind/)
 
-Last update on Tue Feb 14 2023
+Last update on Wed Feb 15 2023

@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Dynamic classes in Tailwind](https://velocidadescape.com/css/dynamic-classes-tailwind/)
 
-Last update on Wed Feb 15 2023
+Last update on Thu Feb 16 2023

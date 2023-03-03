@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Dynamic classes in Tailwind](https://velocidadescape.com/css/dynamic-classes-tailwind/)
+Read my latest blog post: [Built-in error objects in JavaScript](https://velocidadescape.com/js/errors-javascript/)
 
-Last update on Wed Mar 01 2023
+Last update on Fri Mar 03 2023

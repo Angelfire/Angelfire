@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Built-in error objects in JavaScript](https://velocidadescape.com/js/errors-javascript/)
 
-Last update on Sun Mar 05 2023
+Last update on Mon Mar 06 2023

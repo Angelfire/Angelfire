@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Built-in error objects in JavaScript](https://velocidadescape.com/js/errors-javascript/)
+Read my latest blog post: [Using AbortController in React](https://velocidadescape.com/react/using-abortcontroller-react/)
 
-Last update on Wed Mar 08 2023
+Last update on Thu Mar 09 2023

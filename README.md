@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Using AbortController in React](https://velocidadescape.com/react/using-abortcontroller-react/)
 
-Last update on Wed May 03 2023
+Last update on Thu May 04 2023

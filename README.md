@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Using AbortController in React](https://velocidadescape.com/react/using-abortcontroller-react/)
+Read my latest blog post: [Why in JS typeof array and null are object?](https://velocidadescape.com/js/why-js-typeof-array-null-object/)
 
-Last update on Tue May 09 2023
+Last update on Wed May 10 2023

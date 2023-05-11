@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Why in JS typeof array and null are object?](https://velocidadescape.com/js/why-js-typeof-array-null-object/)
+Read my latest blog post: [Why in JS typeof array and null is object?](https://velocidadescape.com/js/why-js-typeof-array-null-object/)
 
-Last update on Wed May 10 2023
+Last update on Thu May 11 2023

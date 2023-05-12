@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Why in JS typeof array and null is object?](https://velocidadescape.com/js/why-js-typeof-array-null-object/)
 
-Last update on Thu May 11 2023
+Last update on Fri May 12 2023

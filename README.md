@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Memory Management in JavaScript and Garbage Collector](https://velocidadescape.com/js/memory-management-js-garbage-collector/)
 
-Last update on Sun May 14 2023
+Last update on Mon May 15 2023

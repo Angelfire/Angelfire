@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Memory Management in JavaScript and Garbage Collector](https://velocidadescape.com/js/memory-management-js-garbage-collector/)
+Read my latest blog post: [Circular dependency and Dependency injection in JavaScript](https://velocidadescape.com/js/circular-dependency-dependecy-injection/)
 
-Last update on Tue May 30 2023
+Last update on Wed May 31 2023

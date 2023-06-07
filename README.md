@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Circular dependency and Dependency injection in JavaScript](https://velocidadescape.com/js/circular-dependency-dependecy-injection/)
 
-Last update on Tue Jun 06 2023
+Last update on Wed Jun 07 2023

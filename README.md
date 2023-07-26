@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Circular dependency and Dependency injection in JavaScript](https://velocidadescape.com/js/circular-dependency-dependecy-injection/)
+Read my latest blog post: [ESM VS CJS modules](https://velocidadescape.com/js/esm-cjs-modules/)
 
-Last update on Tue Jul 25 2023
+Last update on Wed Jul 26 2023

@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [ESM VS CJS modules](https://velocidadescape.com/js/esm-cjs-modules/)
 
-Last update on Mon Oct 09 2023
+Last update on Tue Oct 10 2023

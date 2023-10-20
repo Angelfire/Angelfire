@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [ESM VS CJS modules](https://velocidadescape.com/js/esm-cjs-modules/)
+Read my latest blog post: [SOLID principles applied to an application with React](https://velocidadescape.com/react/solid-principles-react-app/)
 
-Last update on Thu Oct 19 2023
+Last update on Fri Oct 20 2023

@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [SOLID principles applied to an application with React](https://velocidadescape.com/react/solid-principles-react-app/)
 
-Last update on Sun Nov 05 2023
+Last update on Mon Nov 06 2023

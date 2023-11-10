@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [SOLID principles applied to an application with React](https://velocidadescape.com/react/solid-principles-react-app/)
+Read my latest blog post: [Do people understand how Template Literals work in JavaScript?](https://velocidadescape.com/js/people-dont-understand-template-literals/)
 
-Last update on Thu Nov 09 2023
+Last update on Fri Nov 10 2023

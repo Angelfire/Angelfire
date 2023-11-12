@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Do people understand how Template Literals work in JavaScript?](https://velocidadescape.com/js/people-dont-understand-template-literals/)
 
-Last update on Sat Nov 11 2023
+Last update on Sun Nov 12 2023

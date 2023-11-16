@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Do people understand how Template Literals work in JavaScript?](https://velocidadescape.com/js/people-dont-understand-template-literals/)
+Read my latest blog post: [Epoch of Innovation: The Timeless Legacy of Unix in Computing History](https://velocidadescape.com/js/epoch-innovation-timeless-legacy-unix-computing-history/)
 
-Last update on Wed Nov 15 2023
+Last update on Thu Nov 16 2023

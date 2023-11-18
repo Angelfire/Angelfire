@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Epoch of Innovation: The Timeless Legacy of Unix in Computing History](https://velocidadescape.com/js/epoch-innovation-timeless-legacy-unix-computing-history/)
 
-Last update on Fri Nov 17 2023
+Last update on Sat Nov 18 2023

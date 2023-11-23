@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Epoch of Innovation: The Timeless Legacy of Unix in Computing History](https://velocidadescape.com/js/epoch-innovation-timeless-legacy-unix-computing-history/)
+Read my latest blog post: [Navigating Data Streams: An Exploration of JavaScript Iterators and Generators](https://velocidadescape.com/js/navigating-data-streams-iterators-generators/)
 
-Last update on Wed Nov 22 2023
+Last update on Thu Nov 23 2023

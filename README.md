@@ -24,4 +24,4 @@ Currently focused on web application development using **React**, **Vue.js** and
 
 Read my latest blog post: [Navigating Data Streams: An Exploration of JavaScript Iterators and Generators](https://velocidadescape.com/js/navigating-data-streams-iterators-generators/)
 
-Last update on Fri Dec 01 2023
+Last update on Sat Dec 02 2023

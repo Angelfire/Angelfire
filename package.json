@@ -9,6 +9,6 @@
   "author": "Andrés Bedoya",
   "license": "ISC",
   "dependencies": {
-    "rss-parser": "^3.9.0"
+    "rss-parser": "^3.13.0"
   }
 }

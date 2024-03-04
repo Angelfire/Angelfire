@@ -22,6 +22,6 @@ Currently focused on web application development using **React**, **Vue.js** and
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Navigating Data Streams: An Exploration of JavaScript Iterators and Generators](https://velocidadescape.com/js/navigating-data-streams-iterators-generators/)
+Read my latest blog post: [Decoding Big O Notation: A Clear Guide to Algorithm Efficiency](https://velocidadescape.com/cs/decoding-big-o-notation/)
 
-Last update on Fri Mar 01 2024
+Last update on Mon Mar 04 2024

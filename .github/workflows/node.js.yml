@@ -1,9 +1,6 @@
 name: update-readme
 
 on:
-  push:
-    branches:
-      - master
   workflow_dispatch:
 
 jobs:
@@ -13,16 +10,16 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [14.x]
+        node-version: [20.11.1]
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
     - name: 🍽️ Get working copy
-      uses: actions/checkout@master
+      uses: actions/checkout@main
       with:
         fetch-depth: 1  
     - name: Install dependencies and run

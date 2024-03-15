@@ -22,6 +22,6 @@ As an Internet enthusiast, I leverage communication, music, networks, and social
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Decoding Big O Notation: A Clear Guide to Algorithm Efficiency](https://velocidadescape.com/cs/decoding-big-o-notation/)
+Read my latest blog post: [Never use the index for the key in React](https://velocidadescape.com/react/never-use-index-key/)
 
 Last update on Fri Mar 15 2024

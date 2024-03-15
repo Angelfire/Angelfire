@@ -5,8 +5,12 @@ import path from "path";
 
 const parser = new Parser();
 
-const filePathStatic = path.join(__dirname, "./static.md");
-const filePathReadme = path.join(__dirname, "../README.md");
+const filePathStatic = path.join(
+  new URL("./static.md", import.meta.url).pathname
+);
+const filePathReadme = path.join(
+  new URL("../README.md", import.meta.url).pathname
+);
 
 const rssUrl = "https://velocidadescape.com/rss.xml";
 

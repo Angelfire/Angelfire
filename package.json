@@ -1,7 +1,8 @@
 {
   "name": "updatereadme",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Update Readme Automatically",
+  "type": "module",
   "main": "./update/index.js",
   "scripts": {
     "start": "node update/index.js"

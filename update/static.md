@@ -1,21 +1,21 @@
 # Hi, I'm Andrés Bedoya 👋
 
-I'm a full time Frontend Engineer (Systems Engineering) living in Medellín, Colombia.
+I hold a B.Sc. in Systems and Informatics Engineering, and I'm a seasoned JavaScript developer with over 12 years of experience. My passion lies in the intersection of technology and creativity, particularly in web development and the world of Open Source.
 
-Passionate JavaScript developer with more than 10 years of experience. I developed applications and web pages using open source technologies; I mainly work as a Frontend developer creating user interfaces and visualizing data.
+Beyond code, I am deeply interested in fund investing and personal finance, finding the perfect balance between financial strategy and technological innovation. My journey into the tech realm began at an early age, where I embraced blogging and explored the vast opportunities the internet offers (25 years ago).
 
-I have experience with free platforms and operating systems Linux / OS X management with web trends knowledge, basic server management and computer information security...
-
-Currently focused on web application development using **React**, **Vue.js** and **Node.js**
+As an Internet enthusiast, I leverage communication, music, networks, and social interactions through technology to enhance daily life. I am a firm believer in the power of the free culture, advocating for an open and collaborative approach to knowledge and innovation.
 
 ## Professional Interests
+
 - JavaScript programming
 - 🐍 Python Programming
-- 🕸 Web apps Security
-- Node.js / Deno
-- JAMstack
+- 🧷 Web apps Security
+- 🕸 Web performance
+- Node.js
 
 ## I used to write in:
+
 - 💨 [Velocidad de Escape](https://velocidadescape.com/)
 - 📫 My personal website [SrHart](https://srhart.co/)
 - 👾 [Geek the Planet](https://geektheplanet.net/)

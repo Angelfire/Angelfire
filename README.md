@@ -22,6 +22,6 @@ As an Internet enthusiast, I leverage communication, music, networks, and social
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Never use the index for the key in React](https://velocidadescape.com/react/never-use-index-key/)
+Read my latest blog post: [Fundamental Principles in Software Engineering](https://velocidadescape.com/cs/fundamental-principles-software-engineering/)
 
-Last update on Fri Mar 15 2024
+Last update on Fri Apr 05 2024

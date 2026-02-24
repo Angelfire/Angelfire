@@ -22,6 +22,6 @@ As an Internet enthusiast, I leverage communication, music, networks, and social
 - 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
 
 
-Read my latest blog post: [Fundamental Principles in Software Engineering](https://velocidadescape.com/cs/fundamental-principles-software-engineering/)
+Read my latest blog post: [Why Ghostty Finally Became My Terminal of Choice](https://velocidadescape.com/personal/why-ghostty-finally-became-my-terminal-of-choice/)
 
-Last update on Fri Apr 05 2024
+Last update on Tue Feb 24 2026

@@ -1,16 +1,15 @@
 import Parser from "rss-parser";
 
-import { readFile, writeFile } from "fs/promises";
-import path from "path";
+import { readFile, writeFile } from "node:fs/promises";
+import { fileURLToPath } from "node:url";
+import path from "node:path";
 
 const parser = new Parser();
 
-const filePathStatic = path.join(
-  new URL("./static.md", import.meta.url).pathname
-);
-const filePathReadme = path.join(
-  new URL("../README.md", import.meta.url).pathname
-);
+const currentFilePath = fileURLToPath(import.meta.url);
+const currentDirPath = path.dirname(currentFilePath);
+const filePathStatic = path.resolve(currentDirPath, "static.md");
+const filePathReadme = path.resolve(currentDirPath, "..", "README.md");
 
 const rssUrl = "https://velocidadescape.com/rss.xml";
 
@@ -20,15 +19,7 @@ const rssUrl = "https://velocidadescape.com/rss.xml";
  * @param mdFile Path to the Markdown file.
  * @returns The contents of the Markdown file.
  */
-const readMarkdown = async (mdFile) => {
-  try {
-    const mdData = await readFile(mdFile, "utf8");
-
-    return mdData;
-  } catch (e) {
-    throw new Error(`Failed to load file at ${mdFile}`);
-  }
-};
+const readMarkdown = async (mdFilePath) => readFile(mdFilePath, "utf8");
 
 /**
  * Fetches and parses an RSS feed.
@@ -36,8 +27,8 @@ const readMarkdown = async (mdFile) => {
  * @param rssUrl The URL of the RSS feed.
  * @returns The first item from the RSS feed.
  */
-const getRSS = async (rssUrl) => {
-  const feed = await parser.parseURL(rssUrl);
+const getRSS = async (rssURL) => {
+  const feed = await parser.parseURL(rssURL);
 
   if (!feed.items) {
     throw new Error("feed.items was not found!");
@@ -47,7 +38,7 @@ const getRSS = async (rssUrl) => {
 
   if (!firstItem || !firstItem.title || !firstItem.link) {
     throw new Error(
-      "Invalid RSS feed format: Missing title or link in first item"
+      "Invalid RSS feed format: Missing title or link in first item",
     );
   }
 
@@ -60,12 +51,8 @@ const getRSS = async (rssUrl) => {
  * @param mdFile Path to the Markdown file.
  * @param data The data to write to the file.
  */
-const writeMarkdown = async (mdFile, data) => {
-  try {
-    await writeFile(mdFile, data);
-  } catch (e) {
-    throw new Error("Failed to write file");
-  }
+const writeMarkdown = async (mdFilePath, data) => {
+  await writeFile(mdFilePath, data, "utf8");
 };
 
 /**
@@ -74,7 +61,7 @@ const writeMarkdown = async (mdFile, data) => {
  * @param staticMD Path to a static Markdown file.
  * @param rssURL The URL of the RSS feed.
  */
-const main = async (staticMD, rssURL) => {
+const main = async (staticMD = filePathStatic, rssURL = rssUrl) => {
   const oldMd = await readMarkdown(staticMD);
   const feedItem = await getRSS(rssURL);
   const today = new Date();
@@ -82,7 +69,7 @@ const main = async (staticMD, rssURL) => {
   const lastPost = `Read my latest blog post: [${feedItem.title}](${feedItem.link})`;
   const date = `Last update on ${today.toDateString()}`;
 
-  const data = `${oldMd}
+  const data = `${oldMd.trimEnd()}
 
 ${lastPost}
 
@@ -91,4 +78,13 @@ ${date}`;
   await writeMarkdown(filePathReadme, data);
 };
 
-main(filePathStatic, rssUrl);
+try {
+  await main();
+  console.log("README.md updated successfully");
+} catch (error) {
+  console.error("Failed to update README.md");
+  if (error instanceof Error) {
+    console.error(error.message);
+  }
+  process.exitCode = 1;
+}

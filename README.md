@@ -9,19 +9,15 @@ As an Internet enthusiast, I leverage communication, music, networks, and social
 ## Professional Interests
 
 - JavaScript programming
-- 🐍 Python Programming
 - 🧷 Web apps Security
 - 🕸 Web performance
-- Node.js
+- Node.js/Deno/Bun
 
 ## I used to write in:
 
 - 💨 [Velocidad de Escape](https://velocidadescape.com/)
 - 📫 My personal website [SrHart](https://srhart.co/)
-- 👾 [Geek the Planet](https://geektheplanet.net/)
-- 📝 [Curriculum Vitae](https://read.cv/anbedoyag)
-
 
 Read my latest blog post: [Why Ghostty Finally Became My Terminal of Choice](https://velocidadescape.com/personal/why-ghostty-finally-became-my-terminal-of-choice/)
 
-Last update on Tue Feb 24 2026
+Last update on Mon Feb 23 2026

@@ -9,14 +9,11 @@ As an Internet enthusiast, I leverage communication, music, networks, and social
 ## Professional Interests
 
 - JavaScript programming
-- 🐍 Python Programming
 - 🧷 Web apps Security
 - 🕸 Web performance
-- Node.js
+- Node.js/Deno/Bun
 
 ## I used to write in:
 
 - 💨 [Velocidad de Escape](https://velocidadescape.com/)
 - 📫 My personal website [SrHart](https://srhart.co/)
-- 👾 [Geek the Planet](https://geektheplanet.net/)
-- 📝 [Curriculum Vitae](https://read.cv/anbedoyag)

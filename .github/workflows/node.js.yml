@@ -1,10 +1,10 @@
 name: update-readme
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build-and-update:
@@ -16,19 +16,25 @@ jobs:
       - name: set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20.11.1"
-          cache: npm
+          node-version: "24"
+          cache: pnpm
+
+      - name: set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
 
       - name: install dependencies
-        run: npm ci
+        run: pnpm install --frozen-lockfile
 
       - name: update README
-        run: npm run start
+        run: pnpm run update:readme
 
       - name: 🚀 Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add .
-          git commit -am "Update dynamic content"
-          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+          git diff --cached --quiet && exit 0
+          git commit -m "Update dynamic content"
+          git push

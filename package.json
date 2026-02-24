@@ -5,6 +5,7 @@
   "type": "module",
   "main": "./update/index.js",
   "scripts": {
+    "update:readme": "node update/index.js",
     "start": "node update/index.js"
   },
   "author": "Andrés Bedoya",

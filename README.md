@@ -20,4 +20,4 @@ As an Internet enthusiast, I leverage communication, music, networks, and social
 
 Read my latest blog post: [Why Ghostty Finally Became My Terminal of Choice](https://velocidadescape.com/personal/why-ghostty-finally-became-my-terminal-of-choice/)
 
-Last update on Mon Feb 23 2026
+Last update on Tue Feb 24 2026
